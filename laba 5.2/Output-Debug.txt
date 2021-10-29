@@ -1,0 +1,14 @@
+﻿'laba 5.2.exe' (Win32): Loaded 'C:\Users\LENOVO\source\repos\laba 5.2\Debug\laba 5.2.exe'. Symbols loaded.
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x115c has exited with code 0 (0x0).
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'laba 5.2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x60a4 has exited with code 0 (0x0).
+The thread 0x1dc8 has exited with code 0 (0x0).
+The program '[23196] laba 5.2.exe' has exited with code 0 (0x0).
